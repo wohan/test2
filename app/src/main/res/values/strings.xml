@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор валют</string>
+    <string name="app2">"Введите сумму для рассчета и нажмите рассчитать!"</string>
+    <string name="app3">"Невозможно получить данные!"</string>
+</resources>
